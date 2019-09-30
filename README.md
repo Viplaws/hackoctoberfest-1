@@ -1,2 +1,2 @@
 # hackoctoberfest
-#code
+#cout<<"HELLO WORLD"!!
